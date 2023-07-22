@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I'm like coding and creating software and mods for [Minetest](https://www.minetest.net/)
-
 Links
 - [Matrix](https://app.element.io/#/user/%40ftrof%3Amatrix.org) ftrof
-- [Discord](https://discordapp.com/users/1014953725879648346) ft7n
+- [Discord](https://discordapp.com/users/1014953725879648346) ftrof
 - [Email](mailto:ftrof@proton.me) ftrof@proton.me
 - [Site](https://ftrof7.github.io)
 - [GitHub](https://github.com/ftrof7) ftrof7
