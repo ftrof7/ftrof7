@@ -16,11 +16,11 @@ My Minetest mods
 
 
 Skills
-| Languages                     | Tools                         |
-|-------------------------------|-------------------------------|
-| Lua                           | MinetestEngine                |
-| HTML/CSS                      |                               |
-| C/C++ 17 **(Learning)**       | CMake, make                   | 
+| Languages                     |
+|-------------------------------|
+| Lua                           |
+| HTML/CSS                      |
+| C/C++ 17 **(Learning)**       |
 
 
 
