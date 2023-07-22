@@ -11,7 +11,6 @@ Minetest
 - [contentDB](https://content.minetest.net/users/ftrof/)
 
 My Minetest mods
-- [ambion](https://github.com/ftrof7/minetest-mod-ambion)
 - [testtools **Protect Version**](https://github.com/ftrof7/minetest-mod-testtools)
 
 
