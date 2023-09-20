@@ -22,7 +22,7 @@ Skills
 |-------------------------------|
 | Lua                           |
 | HTML/CSS                      |
-| C/C++ 17 **(Learning)**       |
+| C++ 17 **(Learning)**         |
 
 
 
