@@ -12,6 +12,7 @@ Minetest
 - [Forum](https://forum.minetest.net/memberlist.php?mode=viewprofile&u=47280)
 
 My Minetest mods
+- [AntiCheatF **Fly, NoClip**](https://github.com/ftrof7/anticheatf)
 - [testtools **Protect Version**](https://github.com/ftrof7/minetest-mod-testtools)
 
 
