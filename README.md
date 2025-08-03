@@ -1,28 +1,13 @@
 ### Hi there 👋
 
 Links
-- [Matrix](https://app.element.io/#/user/%40ftrof%3Amatrix.org) ftrof
 - [Discord](https://discordapp.com/users/1014953725879648346) ftrof
 - [Email](mailto:ftrof@proton.me) ftrof@proton.me
 - [Site](https://ftrof7.github.io)
 - [GitHub](https://github.com/ftrof7) ftrof7
 
-Minetest
-- [contentDB](https://content.minetest.net/users/ftrof/)
-- [Forum](https://forum.minetest.net/memberlist.php?mode=viewprofile&u=47280)
-
-My Minetest mods
-- [AntiCheatF **Fly, NoClip**](https://github.com/ftrof7/anticheatf)
-- [testtools **Protect Version**](https://github.com/ftrof7/minetest-mod-testtools)
-
-
-
-Skills
-| Languages                     |
-|-------------------------------|
-| Lua                           |
-| HTML/CSS                      |
-| C++ 17 **(Learning)**         |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftrof7&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ftrof7&show_icons=true&theme=dark)
 
 
 
